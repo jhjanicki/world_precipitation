@@ -1,4 +1,4 @@
-#data_subset <- read_lines("ghcn-m_v4_prcp_inventory.txt", skip = 0, n_max = 25700) 
+library(tidyverse)
 
 # 1.read in inventory file
 data <-read_lines("ghcn-m_v4_prcp_inventory.txt", skip = 0) 
