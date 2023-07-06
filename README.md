@@ -25,5 +25,5 @@ A csv file with all stations with 2023 data, showing only the most updated datas
 ## Note 
 For this repo, I kept only 2000 out of 122063 individual stations csv files to serve as an example, you can download the full dataset here and run the same code on this dataset: https://www.ncei.noaa.gov/data/ghcnm/v4beta/archive/
 
-
-
+## Map showing May 2023 data for all stations with 2023 data
+<img width="1315" alt="Screenshot 2023-07-06 at 15 12 46" src="https://github.com/jhjanicki/world_precipitation/assets/6565011/71593433-0edf-4e8b-8f71-20483355756d">
